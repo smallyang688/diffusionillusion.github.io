@@ -1,14 +1,14 @@
-# Nerfies
+# Diffusion Illusion
 
-This is the repository that contains source code for the [Nerfies website](https://nerfies.github.io).
+This is the repository for the homepage of our project Diffusion Illusion(coming soon~).
 
-If you find Nerfies useful for your work please cite:
+If you find Our Project useful for your work please cite:
 ```
-@article{park2021nerfies
-  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
-  title     = {Nerfies: Deformable Neural Radiance Fields},
-  journal   = {ICCV},
-  year      = {2021},
+@article{diffusion illusion
+  author    = {Zihan Yang, Yuming Fang, Yueran Wang},
+  title     = {Diffusion Illusion},
+  journal   = {PKU Computer Vision Final Project},
+  year      = {2025},
 }
 ```
 
